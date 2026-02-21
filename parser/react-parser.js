@@ -1,6 +1,7 @@
 const parser = require('@babel/parser');
 const traverse = require('@babel/traverse').default;
 const path = require('path');
+const { analyzeComplexity } = require('./complexityAnalyzer');
 
 function parseReactFile(code, filePath, rootDir) {
     const isTs = filePath.endsWith('.ts') || filePath.endsWith('.tsx');
@@ -25,7 +26,8 @@ function parseReactFile(code, filePath, rootDir) {
             if (pathNode.node.id) {
                 definitions.push({
                     name: pathNode.node.id.name,
-                    type: 'function'
+                    type: 'function',
+                    complexity: analyzeComplexity(pathNode)
                 });
             }
         },
@@ -37,9 +39,12 @@ function parseReactFile(code, filePath, rootDir) {
             ) {
                 // Naive check for React component (starts with uppercase)
                 const name = pathNode.node.id.name;
+                // We must traverse the init path specifically 
+                const initPath = pathNode.get('init');
                 definitions.push({
                     name,
-                    type: /^[A-Z]/.test(name) ? 'component' : 'function'
+                    type: /^[A-Z]/.test(name) ? 'component' : 'function',
+                    complexity: initPath ? analyzeComplexity(initPath) : { cyclomatic: 1, cognitive: 0, bigO: 'O(1)' }
                 });
             }
         },
@@ -48,7 +53,8 @@ function parseReactFile(code, filePath, rootDir) {
                 const name = pathNode.node.id.name;
                 definitions.push({
                     name,
-                    type: /^[A-Z]/.test(name) ? 'component' : 'class'
+                    type: /^[A-Z]/.test(name) ? 'component' : 'class',
+                    complexity: analyzeComplexity(pathNode)
                 });
             }
         },

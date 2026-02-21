@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useMemo } from 'react';
+import React, { useEffect, useState, useMemo, useCallback } from 'react';
 import {
     ReactFlow,
     Controls,
@@ -14,6 +14,7 @@ import { THEME } from '../theme';
 import { useGraphFocus } from '../hooks/useGraphFocus';
 import SearchBar from './SearchBar';
 import HamburgerMenu from './HamburgerMenu';
+import ComplexityDashboard from './ComplexityDashboard';
 
 const nodeTypes = {
     custom: CustomNode,
@@ -23,6 +24,8 @@ export default function GraphDebugger() {
     const [nodes, setNodes, onNodesChange] = useNodesState([]);
     const [edges, setEdges, onEdgesChange] = useEdgesState([]);
     const [isLoading, setIsLoading] = useState(true);
+    const [isXRayMode, setIsXRayMode] = useState(false);
+    const [isDashboardOpen, setIsDashboardOpen] = useState(false);
 
     const { focusedNodeId, focusNode } = useGraphFocus(nodes, edges, setNodes, setEdges);
 
@@ -60,7 +63,9 @@ export default function GraphDebugger() {
                         type: n.type,
                         level: n.level,
                         isCircular: n.isCircular,
-                        opacity: 1
+                        opacity: 1,
+                        complexity: n.complexity,
+                        isXRayMode: false
                     },
                 }));
 
@@ -89,6 +94,26 @@ export default function GraphDebugger() {
             });
     }, [setNodes, setEdges]);
 
+    useEffect(() => {
+        setNodes(nds => nds.map(node => ({
+            ...node,
+            data: { ...node.data, isXRayMode }
+        })));
+    }, [isXRayMode, setNodes]);
+
+    const onNodeClick = useCallback((_, node) => {
+        if (focusedNodeId === node.id) {
+            focusNode(null);
+        } else {
+            focusNode(node.id);
+            if (!isDashboardOpen) setIsDashboardOpen(true);
+        }
+    }, [focusedNodeId, focusNode, isDashboardOpen]);
+
+    const onPaneClick = useCallback(() => {
+        focusNode(null);
+    }, [focusNode]);
+
     if (isLoading) {
         return (
             <div style={{ width: '100vw', height: '100vh', display: 'flex', justifyContent: 'center', alignItems: 'center', background: THEME.colors.background, color: THEME.colors.text }}>
@@ -101,13 +126,24 @@ export default function GraphDebugger() {
         <div style={{ width: '100vw', height: '100vh', background: THEME.colors.background }}>
             <SearchBar
                 nodes={nodes}
-                onFocus={focusNode}
+                onFocus={(id) => { focusNode(id); if (!isDashboardOpen) setIsDashboardOpen(true); }}
                 focusedNodeId={focusedNodeId}
             />
-            <HamburgerMenu />
+            <HamburgerMenu
+                isXRayMode={isXRayMode}
+                toggleXRay={() => setIsXRayMode(prev => !prev)}
+                isDashboardOpen={isDashboardOpen}
+                toggleDashboard={() => setIsDashboardOpen(prev => !prev)}
+            />
+            <ComplexityDashboard
+                isOpen={isDashboardOpen}
+                selectedNode={nodes.find(n => n.id === focusedNodeId)}
+            />
             <ReactFlow
                 nodes={nodes}
                 edges={edges}
+                onNodeClick={onNodeClick}
+                onPaneClick={onPaneClick}
                 onNodesChange={onNodesChange}
                 onEdgesChange={onEdgesChange}
                 nodeTypes={nodeTypes}
