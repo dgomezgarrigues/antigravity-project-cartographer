@@ -4,2221 +4,4071 @@
       "id": "func_99",
       "label": "func_99",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_98",
       "label": "func_98",
       "type": "function",
-      "level": 4
+      "level": 4,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_97",
       "label": "func_97",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_96",
       "label": "func_96",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_95",
       "label": "func_95",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_94",
       "label": "func_94",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_93",
       "label": "func_93",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_92",
       "label": "func_92",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_91",
       "label": "func_91",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_90",
       "label": "func_90",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_9",
       "label": "func_9",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_89",
       "label": "func_89",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_88",
       "label": "func_88",
       "type": "function",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_87",
       "label": "func_87",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_86",
       "label": "func_86",
       "type": "function",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_85",
       "label": "func_85",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_84",
       "label": "func_84",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_83",
       "label": "func_83",
       "type": "function",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_82",
       "label": "func_82",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_81",
       "label": "func_81",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_80",
       "label": "func_80",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_8",
       "label": "func_8",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_79",
       "label": "func_79",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_78",
       "label": "func_78",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_77",
       "label": "func_77",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_76",
       "label": "func_76",
       "type": "function",
-      "level": 4
+      "level": 4,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_75",
       "label": "func_75",
       "type": "function",
-      "level": 4
+      "level": 4,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_74",
       "label": "func_74",
       "type": "function",
-      "level": 4
+      "level": 4,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_73",
       "label": "func_73",
       "type": "function",
-      "level": 4
+      "level": 4,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_72",
       "label": "func_72",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_71",
       "label": "func_71",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_70",
       "label": "func_70",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_7",
       "label": "func_7",
       "type": "function",
-      "level": 4
+      "level": 4,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_69",
       "label": "func_69",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_68",
       "label": "func_68",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_67",
       "label": "func_67",
       "type": "function",
-      "level": 4
+      "level": 4,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_66",
       "label": "func_66",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_65",
       "label": "func_65",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_64",
       "label": "func_64",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_63",
       "label": "func_63",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_62",
       "label": "func_62",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_61",
       "label": "func_61",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_60",
       "label": "func_60",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_6",
       "label": "func_6",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_59",
       "label": "func_59",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_58",
       "label": "func_58",
       "type": "function",
-      "level": 4
+      "level": 4,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_57",
       "label": "func_57",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_56",
       "label": "func_56",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_55",
       "label": "func_55",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_54",
       "label": "func_54",
       "type": "function",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_53",
       "label": "func_53",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_52",
       "label": "func_52",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_51",
       "label": "func_51",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_50",
       "label": "func_50",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_5",
       "label": "func_5",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_49",
       "label": "func_49",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_48",
       "label": "func_48",
       "type": "function",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_47",
       "label": "func_47",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_46",
       "label": "func_46",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_45",
       "label": "func_45",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_44",
       "label": "func_44",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_43",
       "label": "func_43",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_42",
       "label": "func_42",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_41",
       "label": "func_41",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_40",
       "label": "func_40",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_4",
       "label": "func_4",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_39",
       "label": "func_39",
       "type": "function",
-      "level": 4
+      "level": 4,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_38",
       "label": "func_38",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_37",
       "label": "func_37",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_36",
       "label": "func_36",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_35",
       "label": "func_35",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_34",
       "label": "func_34",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_33",
       "label": "func_33",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_32",
       "label": "func_32",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_31",
       "label": "func_31",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_30",
       "label": "func_30",
       "type": "function",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_3",
       "label": "func_3",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_29",
       "label": "func_29",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_28",
       "label": "func_28",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_27",
       "label": "func_27",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_26",
       "label": "func_26",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_25",
       "label": "func_25",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_24",
       "label": "func_24",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_23",
       "label": "func_23",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_22",
       "label": "func_22",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_21",
       "label": "func_21",
       "type": "function",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_20",
       "label": "func_20",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_2",
       "label": "func_2",
       "type": "function",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_19",
       "label": "func_19",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_18",
       "label": "func_18",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_17",
       "label": "func_17",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_16",
       "label": "func_16",
       "type": "function",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_15",
       "label": "func_15",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_14",
       "label": "func_14",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_13",
       "label": "func_13",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_12",
       "label": "func_12",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_11",
       "label": "func_11",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_100",
       "label": "func_100",
       "type": "function",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 3,
+        "cognitive": 3,
+        "bigO": "O(n^2)"
+      }
     },
     {
       "id": "func_10",
       "label": "func_10",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "func_1",
       "label": "func_1",
       "type": "function",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_99",
       "label": "Atom_99",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_98",
       "label": "Atom_98",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_97",
       "label": "Atom_97",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_96",
       "label": "Atom_96",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_95",
       "label": "Atom_95",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_94",
       "label": "Atom_94",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_93",
       "label": "Atom_93",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_92",
       "label": "Atom_92",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_91",
       "label": "Atom_91",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_90",
       "label": "Atom_90",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_9",
       "label": "Atom_9",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_89",
       "label": "Atom_89",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_88",
       "label": "Atom_88",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_87",
       "label": "Atom_87",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_86",
       "label": "Atom_86",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_85",
       "label": "Atom_85",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_84",
       "label": "Atom_84",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_83",
       "label": "Atom_83",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_82",
       "label": "Atom_82",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_81",
       "label": "Atom_81",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_80",
       "label": "Atom_80",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_8",
       "label": "Atom_8",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_79",
       "label": "Atom_79",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_78",
       "label": "Atom_78",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_77",
       "label": "Atom_77",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_76",
       "label": "Atom_76",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_75",
       "label": "Atom_75",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_74",
       "label": "Atom_74",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_73",
       "label": "Atom_73",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_72",
       "label": "Atom_72",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_71",
       "label": "Atom_71",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_70",
       "label": "Atom_70",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_7",
       "label": "Atom_7",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_69",
       "label": "Atom_69",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_68",
       "label": "Atom_68",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_67",
       "label": "Atom_67",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_66",
       "label": "Atom_66",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_65",
       "label": "Atom_65",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_64",
       "label": "Atom_64",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_63",
       "label": "Atom_63",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_62",
       "label": "Atom_62",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_61",
       "label": "Atom_61",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_60",
       "label": "Atom_60",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_6",
       "label": "Atom_6",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_59",
       "label": "Atom_59",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_58",
       "label": "Atom_58",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_57",
       "label": "Atom_57",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_56",
       "label": "Atom_56",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_55",
       "label": "Atom_55",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_54",
       "label": "Atom_54",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_53",
       "label": "Atom_53",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_52",
       "label": "Atom_52",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_51",
       "label": "Atom_51",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_50",
       "label": "Atom_50",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_5",
       "label": "Atom_5",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_49",
       "label": "Atom_49",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_48",
       "label": "Atom_48",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_47",
       "label": "Atom_47",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_46",
       "label": "Atom_46",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_45",
       "label": "Atom_45",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_44",
       "label": "Atom_44",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_43",
       "label": "Atom_43",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_42",
       "label": "Atom_42",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_41",
       "label": "Atom_41",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_40",
       "label": "Atom_40",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_4",
       "label": "Atom_4",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_39",
       "label": "Atom_39",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_38",
       "label": "Atom_38",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_37",
       "label": "Atom_37",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_36",
       "label": "Atom_36",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_35",
       "label": "Atom_35",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_34",
       "label": "Atom_34",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_33",
       "label": "Atom_33",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_32",
       "label": "Atom_32",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_31",
       "label": "Atom_31",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_30",
       "label": "Atom_30",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_3",
       "label": "Atom_3",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_29",
       "label": "Atom_29",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_28",
       "label": "Atom_28",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_27",
       "label": "Atom_27",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_26",
       "label": "Atom_26",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_25",
       "label": "Atom_25",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_24",
       "label": "Atom_24",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_23",
       "label": "Atom_23",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_22",
       "label": "Atom_22",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_21",
       "label": "Atom_21",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_200",
       "label": "Atom_200",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_20",
       "label": "Atom_20",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_2",
       "label": "Atom_2",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_199",
       "label": "Atom_199",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_198",
       "label": "Atom_198",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_197",
       "label": "Atom_197",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_196",
       "label": "Atom_196",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_195",
       "label": "Atom_195",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_194",
       "label": "Atom_194",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_193",
       "label": "Atom_193",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_192",
       "label": "Atom_192",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_191",
       "label": "Atom_191",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_190",
       "label": "Atom_190",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_19",
       "label": "Atom_19",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_189",
       "label": "Atom_189",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_188",
       "label": "Atom_188",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_187",
       "label": "Atom_187",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_186",
       "label": "Atom_186",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_185",
       "label": "Atom_185",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_184",
       "label": "Atom_184",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_183",
       "label": "Atom_183",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_182",
       "label": "Atom_182",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_181",
       "label": "Atom_181",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_180",
       "label": "Atom_180",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_18",
       "label": "Atom_18",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_179",
       "label": "Atom_179",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_178",
       "label": "Atom_178",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_177",
       "label": "Atom_177",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_176",
       "label": "Atom_176",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_175",
       "label": "Atom_175",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_174",
       "label": "Atom_174",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_173",
       "label": "Atom_173",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_172",
       "label": "Atom_172",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_171",
       "label": "Atom_171",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_170",
       "label": "Atom_170",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_17",
       "label": "Atom_17",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_169",
       "label": "Atom_169",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_168",
       "label": "Atom_168",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_167",
       "label": "Atom_167",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_166",
       "label": "Atom_166",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_165",
       "label": "Atom_165",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_164",
       "label": "Atom_164",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_163",
       "label": "Atom_163",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_162",
       "label": "Atom_162",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_161",
       "label": "Atom_161",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_160",
       "label": "Atom_160",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_16",
       "label": "Atom_16",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_159",
       "label": "Atom_159",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_158",
       "label": "Atom_158",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_157",
       "label": "Atom_157",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_156",
       "label": "Atom_156",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_155",
       "label": "Atom_155",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_154",
       "label": "Atom_154",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_153",
       "label": "Atom_153",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_152",
       "label": "Atom_152",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_151",
       "label": "Atom_151",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_150",
       "label": "Atom_150",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_15",
       "label": "Atom_15",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_149",
       "label": "Atom_149",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_148",
       "label": "Atom_148",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_147",
       "label": "Atom_147",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_146",
       "label": "Atom_146",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_145",
       "label": "Atom_145",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_144",
       "label": "Atom_144",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_143",
       "label": "Atom_143",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_142",
       "label": "Atom_142",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_141",
       "label": "Atom_141",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_140",
       "label": "Atom_140",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_14",
       "label": "Atom_14",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_139",
       "label": "Atom_139",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_138",
       "label": "Atom_138",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_137",
       "label": "Atom_137",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_136",
       "label": "Atom_136",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_135",
       "label": "Atom_135",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_134",
       "label": "Atom_134",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_133",
       "label": "Atom_133",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_132",
       "label": "Atom_132",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_131",
       "label": "Atom_131",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_130",
       "label": "Atom_130",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_13",
       "label": "Atom_13",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_129",
       "label": "Atom_129",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_128",
       "label": "Atom_128",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_127",
       "label": "Atom_127",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_126",
       "label": "Atom_126",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_125",
       "label": "Atom_125",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_124",
       "label": "Atom_124",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_123",
       "label": "Atom_123",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_122",
       "label": "Atom_122",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_121",
       "label": "Atom_121",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_120",
       "label": "Atom_120",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_12",
       "label": "Atom_12",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 11,
+        "cognitive": 29,
+        "bigO": "O(n)"
+      }
     },
     {
       "id": "Atom_119",
       "label": "Atom_119",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_118",
       "label": "Atom_118",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_117",
       "label": "Atom_117",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_116",
       "label": "Atom_116",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_115",
       "label": "Atom_115",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_114",
       "label": "Atom_114",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_113",
       "label": "Atom_113",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_112",
       "label": "Atom_112",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_111",
       "label": "Atom_111",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_110",
       "label": "Atom_110",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_11",
       "label": "Atom_11",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_109",
       "label": "Atom_109",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_108",
       "label": "Atom_108",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_107",
       "label": "Atom_107",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_106",
       "label": "Atom_106",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_105",
       "label": "Atom_105",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_104",
       "label": "Atom_104",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_103",
       "label": "Atom_103",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_102",
       "label": "Atom_102",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_101",
       "label": "Atom_101",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_100",
       "label": "Atom_100",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_10",
       "label": "Atom_10",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Atom_1",
       "label": "Atom_1",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "wrap",
       "label": "WrapB5",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "include",
       "label": "file",
       "type": "file",
-      "level": 2
+      "level": 2,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "app-inventada-B5",
       "label": "MainB5",
       "type": "component",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B5_4",
       "label": "Internal_B5_4",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B5_3",
       "label": "Internal_B5_3",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B5_2",
       "label": "Internal_B5_2",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B5_1",
       "label": "Internal_B5_1",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "wrap_1",
       "label": "WrapB4",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "include_1",
       "label": "file",
       "type": "file",
-      "level": 2
+      "level": 2,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "app-inventada-B4",
       "label": "MainB4",
       "type": "component",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B4_4",
       "label": "Internal_B4_4",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B4_3",
       "label": "Internal_B4_3",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B4_2",
       "label": "Internal_B4_2",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B4_1",
       "label": "Internal_B4_1",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "wrap_2",
       "label": "WrapB3",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "include_2",
       "label": "file",
       "type": "file",
-      "level": 2
+      "level": 2,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "app-inventada-B3",
       "label": "MainB3",
       "type": "component",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B3_4",
       "label": "Internal_B3_4",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B3_3",
       "label": "Internal_B3_3",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B3_2",
       "label": "Internal_B3_2",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B3_1",
       "label": "Internal_B3_1",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "wrap_3",
       "label": "WrapB2",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "include_3",
       "label": "file",
       "type": "file",
-      "level": 2
+      "level": 2,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "app-inventada-B2",
       "label": "MainB2",
       "type": "component",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B2_4",
       "label": "Internal_B2_4",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B2_3",
       "label": "Internal_B2_3",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B2_2",
       "label": "Internal_B2_2",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B2_1",
       "label": "Internal_B2_1",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "wrap_4",
       "label": "WrapB1",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "include_4",
       "label": "file",
       "type": "file",
-      "level": 2
+      "level": 2,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "app-inventada-B1",
       "label": "MainB1",
       "type": "component",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B1_4",
       "label": "Internal_B1_4",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B1_3",
       "label": "Internal_B1_3",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B1_2",
       "label": "Internal_B1_2",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_B1_1",
       "label": "Internal_B1_1",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "wrap_5",
       "label": "WrapA5",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "include_5",
       "label": "file",
       "type": "file",
-      "level": 2
+      "level": 2,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "app-inventada-A5",
       "label": "MainA5",
       "type": "component",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A5_4",
       "label": "Internal_A5_4",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A5_3",
       "label": "Internal_A5_3",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A5_2",
       "label": "Internal_A5_2",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A5_1",
       "label": "Internal_A5_1",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "wrap_6",
       "label": "WrapA4",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "include_6",
       "label": "file",
       "type": "file",
-      "level": 2
+      "level": 2,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "app-inventada-A4",
       "label": "MainA4",
       "type": "component",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A4_4",
       "label": "Internal_A4_4",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A4_3",
       "label": "Internal_A4_3",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A4_2",
       "label": "Internal_A4_2",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A4_1",
       "label": "Internal_A4_1",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "wrap_7",
       "label": "WrapA3",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "include_7",
       "label": "file",
       "type": "file",
-      "level": 2
+      "level": 2,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "app-inventada-A3",
       "label": "MainA3",
       "type": "component",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A3_4",
       "label": "Internal_A3_4",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A3_3",
       "label": "Internal_A3_3",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A3_2",
       "label": "Internal_A3_2",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A3_1",
       "label": "Internal_A3_1",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "wrap_8",
       "label": "WrapA2",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "include_8",
       "label": "file",
       "type": "file",
-      "level": 2
+      "level": 2,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "app-inventada-A2",
       "label": "MainA2",
       "type": "component",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A2_4",
       "label": "Internal_A2_4",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A2_3",
       "label": "Internal_A2_3",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A2_2",
       "label": "Internal_A2_2",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A2_1",
       "label": "Internal_A2_1",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "wrap_9",
       "label": "WrapA1",
       "type": "component",
-      "level": 0
+      "level": 0,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "include_9",
       "label": "file",
       "type": "file",
-      "level": 2
+      "level": 2,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "app-inventada-A1",
       "label": "MainA1",
       "type": "component",
-      "level": 1
+      "level": 1,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A1_4",
       "label": "Internal_A1_4",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A1_3",
       "label": "Internal_A1_3",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A1_2",
       "label": "Internal_A1_2",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     },
     {
       "id": "Internal_A1_1",
       "label": "Internal_A1_1",
       "type": "component",
-      "level": 3
+      "level": 3,
+      "complexity": {
+        "cyclomatic": 1,
+        "cognitive": 0,
+        "bigO": "O(1)"
+      }
     }
   ],
   "edges": [

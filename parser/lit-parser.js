@@ -1,6 +1,9 @@
 const ts = require('typescript');
 const path = require('path');
 const fs = require('fs');
+const babelParser = require('@babel/parser');
+const traverse = require('@babel/traverse').default;
+const { analyzeComplexity } = require('./complexityAnalyzer');
 
 function parseLitFile(code, filePath, rootDir) {
     const sourceFile = ts.createSourceFile(
@@ -9,6 +12,22 @@ function parseLitFile(code, filePath, rootDir) {
         ts.ScriptTarget.Latest,
         true
     );
+
+    // Parse the file via Babel as well to re-use the AST complexity analyzer
+    const isTs = filePath.endsWith('.ts') || filePath.endsWith('.tsx');
+    let babelAst = null;
+    try {
+        babelAst = babelParser.parse(code, {
+            sourceType: 'module',
+            plugins: [
+                'jsx',
+                ['decorators', { decoratorsBeforeExport: true }],
+                ...(isTs ? ['typescript'] : [])
+            ]
+        });
+    } catch (e) {
+        console.warn(`Could not parse AST with Babel for complexity in ${filePath}`, e.message);
+    }
 
     const imports = [];
     const definitions = [];
@@ -36,9 +55,28 @@ function parseLitFile(code, filePath, rootDir) {
                     }
                 }
 
+                // If class has @customElement decorator, it's also a Lit element
+                if (node.modifiers) {
+                    const hasDecorator = node.modifiers.some(m => ts.isDecorator(m) && ts.isCallExpression(m.expression) && ts.isIdentifier(m.expression.expression) && m.expression.expression.text === 'customElement');
+                    if (hasDecorator) isLitElement = true;
+                }
+
+                let classComplexity = { cyclomatic: 1, cognitive: 0, bigO: 'O(1)' };
+                if (babelAst) {
+                    // Find the class in Babel AST
+                    traverse(babelAst, {
+                        ClassDeclaration(pathNode) {
+                            if (pathNode.node.id && pathNode.node.id.name === node.name.text) {
+                                classComplexity = analyzeComplexity(pathNode);
+                            }
+                        }
+                    });
+                }
+
                 definitions.push({
                     name: node.name.text,
-                    type: isLitElement ? 'component' : 'class'
+                    type: isLitElement ? 'component' : 'class',
+                    complexity: classComplexity
                 });
             }
         }

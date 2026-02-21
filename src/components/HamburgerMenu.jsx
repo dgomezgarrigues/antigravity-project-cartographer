@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Menu, X, Settings, Info, Box } from 'lucide-react';
 import { THEME } from '../theme';
 
-export default function HamburgerMenu() {
+export default function HamburgerMenu({ isXRayMode, toggleXRay, isDashboardOpen, toggleDashboard }) {
     const [isOpen, setIsOpen] = useState(false);
 
     return (
@@ -58,13 +58,13 @@ export default function HamburgerMenu() {
                     }}>
                         Opciones
                     </div>
-                    <button style={menuItemStyle}>
-                        <Settings size={16} />
-                        <span>Configuración</span>
+                    <button style={menuItemStyle} onClick={() => { setIsOpen(false); toggleDashboard(); }}>
+                        <Settings size={16} className={isDashboardOpen ? "text-cyan-400" : ""} />
+                        <span className={isDashboardOpen ? "text-cyan-400 font-semibold" : ""}>Complexity Dashboard</span>
                     </button>
-                    <button style={menuItemStyle}>
-                        <Box size={16} />
-                        <span>Exportar Grafo</span>
+                    <button style={menuItemStyle} onClick={() => { setIsOpen(false); toggleXRay(); }}>
+                        <Box size={16} className={isXRayMode ? "text-green-400" : ""} />
+                        <span className={isXRayMode ? "text-green-400 font-semibold" : ""}>X-Ray Mode</span>
                     </button>
                     <button style={menuItemStyle}>
                         <Info size={16} />

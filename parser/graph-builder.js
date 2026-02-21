@@ -12,10 +12,14 @@ function buildGraph(modulesData) {
         // Determine type (component, function, class) based on definitions
         let primaryDefinition = 'file';
         let type = 'file';
+        let complexity = { cyclomatic: 1, cognitive: 0, bigO: 'O(1)' };
         if (data.definitions && data.definitions.length > 0) {
             const def = data.definitions[0];
             primaryDefinition = def.name;
             type = def.type;
+            if (def.complexity) {
+                complexity = def.complexity;
+            }
         }
 
         let nodeId = path.basename(filePath, path.extname(filePath));
@@ -33,7 +37,7 @@ function buildGraph(modulesData) {
         nodeId = finalNodeId;
 
         // Register primary node
-        nodes.push({ id: nodeId, label: primaryDefinition, type: type, level: 2 });
+        nodes.push({ id: nodeId, label: primaryDefinition, type: type, level: 2, complexity: complexity });
         nodeIds.add(nodeId);
         nodeLevels.set(nodeId, 2);
         fileToNodeId.set(filePath, nodeId);

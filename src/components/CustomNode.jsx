@@ -1,9 +1,11 @@
 import { Handle, Position } from '@xyflow/react';
-import { getNodeColor, THEME } from '../theme';
+import { getNodeColor, getComplexityColor, THEME } from '../theme';
 import { Activity, Box, Code2, AlertTriangle } from 'lucide-react';
 
 export function CustomNode({ data }) {
-    const bgColor = getNodeColor(data.level, data.type, data.isCircular);
+    const isXRay = data.isXRayMode;
+    const bgColor = isXRay ? getComplexityColor(data.complexity) : getNodeColor(data.level, data.type, data.isCircular);
+    const isDanger = isXRay && (bgColor === THEME.colors.xrayDanger || bgColor === THEME.colors.xrayCritical);
 
     const Icon = () => {
         if (data.isCircular) return <AlertTriangle size={16} />;
@@ -14,6 +16,7 @@ export function CustomNode({ data }) {
 
     return (
         <div
+            className={`transition-all duration-300 ${isDanger ? 'animate-pulse' : ''}`}
             style={{
                 padding: '12px 16px',
                 borderRadius: '8px',
@@ -26,9 +29,8 @@ export function CustomNode({ data }) {
                 display: 'flex',
                 alignItems: 'center',
                 gap: '12px',
-                boxShadow: data.isCircular ? `0 0 20px ${THEME.colors.edgeCircular}40` : '0 4px 6px rgba(0,0,0,0.1)',
+                boxShadow: isDanger ? `0 0 30px ${bgColor}80` : (data.isCircular ? `0 0 20px ${THEME.colors.edgeCircular}40` : '0 4px 6px rgba(0,0,0,0.1)'),
                 opacity: data.opacity ?? 1,
-                transition: 'opacity 0.3s ease-out, transform 0.2s',
                 transform: data.isFocused ? 'scale(1.05)' : 'scale(1)',
             }}
         >
