@@ -13,6 +13,7 @@ import { CustomNode } from './CustomNode';
 import { THEME } from '../theme';
 import { useGraphFocus } from '../hooks/useGraphFocus';
 import SearchBar from './SearchBar';
+import HamburgerMenu from './HamburgerMenu';
 
 const nodeTypes = {
     custom: CustomNode,
@@ -103,6 +104,7 @@ export default function GraphDebugger() {
                 onFocus={focusNode}
                 focusedNodeId={focusedNodeId}
             />
+            <HamburgerMenu />
             <ReactFlow
                 nodes={nodes}
                 edges={edges}
