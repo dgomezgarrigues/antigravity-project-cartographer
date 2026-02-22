@@ -24,3 +24,27 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+# complejidad
+El nivel de complejidad del código mide qué tan difícil es entender, mantener y modificar el software, afectando su calidad y rendimiento. Se evalúa principalmente mediante la complejidad ciclomática (caminos lógicos/pruebas) y la complejidad cognitiva (comprensión humana), siendo fundamental para reducir errores, facilitar pruebas y asegurar un código limpio. 
+
+Aquí hay un desglose detallado de cómo se mide la complejidad del código:
+
+## Complejidad Ciclomática (Métrica Estructural):
+Mide el número de caminos independientes a través del código.
+Se basa en estructuras de control: if, while, for, case, etc..
+Un valor alto indica que el código es difícil de probar y mantener.
+
+## Complejidad Cognitiva (Facilidad de Entendimiento):
+Mide qué tan difícil es para un ser humano entender el código.
+Aumenta con estructuras anidadas, recursión y secuencias lógicas complejas.
+El objetivo es mantener el código simple e intuitivo.
+
+## Complejidad Algorítmica (Big O Notation):
+Constante: Rendimiento excelente, el tiempo no depende del tamaño de los datos (ej. acceder a un índice).
+- Logarítmica: Muy eficiente, como la búsqueda binaria.
+- Lineal: El tiempo crece proporcionalmente a los datos.
+- Log-lineal: Común en algoritmos de ordenamiento eficientes.
+- Cuadrática: Lento, común en bucles anidados.
+- Exponencial: Muy ineficiente
