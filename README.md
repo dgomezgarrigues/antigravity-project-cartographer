@@ -35,6 +35,10 @@ Aquí hay un desglose detallado de cómo se mide la complejidad del código:
 Mide el número de caminos independientes a través del código.
 Se basa en estructuras de control: if, while, for, case, etc..
 Un valor alto indica que el código es difícil de probar y mantener.
+- 1-10: Código simple, de bajo riesgo.
+- 11-20: Complejidad moderada.
+- 21-50: Complejidad alta, difícil de probar.
+- >50: Riesgo extremo, requiere reescritura.
 
 ## Complejidad Cognitiva (Facilidad de Entendimiento):
 Mide qué tan difícil es para un ser humano entender el código.
@@ -42,9 +46,27 @@ Aumenta con estructuras anidadas, recursión y secuencias lógicas complejas.
 El objetivo es mantener el código simple e intuitivo.
 
 ## Complejidad Algorítmica (Big O Notation):
-Constante: Rendimiento excelente, el tiempo no depende del tamaño de los datos (ej. acceder a un índice).
-- Logarítmica: Muy eficiente, como la búsqueda binaria.
-- Lineal: El tiempo crece proporcionalmente a los datos.
-- Log-lineal: Común en algoritmos de ordenamiento eficientes.
-- Cuadrática: Lento, común en bucles anidados.
-- Exponencial: Muy ineficiente
+Analiza la eficiencia del código en tiempo de ejecución y uso de memoria a medida que crecen los datos.
+- O(1) (Constante): Mejor rendimiento, el tiempo es constante independientemente de los datos.
+- O(n) (Lineal): El tiempo crece proporcionalmente a la entrada.
+- O(n^2) (Cuadrático): Típico de bucles anidados, puede ser lento
+
+## Cohesión (Inv)
+La "Cohesión Inversa" (o falta de cohesión) mide qué tan enfocada está una clase o módulo. En términos de diseño, la cohesión ideal es alta (el principio de Responsabilidad Única).
+
+Cuando una métrica marca "Cohesión (Inv)", generalmente se refiere al LCOM (Lack of Cohesion of Methods). Esta métrica analiza la relación entre los métodos de una clase y sus atributos (campos).
+
+Cómo se mide: Se observa si los métodos de una clase comparten los mismos atributos.
+- Baja Cohesión Inv (Bueno): Casi todos los métodos usan casi todos los atributos. La clase tiene un propósito único y claro.
+- Alta Cohesión Inv (Malo): Tienes grupos de métodos que no comparten nada con otros grupos dentro de la misma clase. Esto sugiere que la clase es un "objeto Dios" o un cajón de sastre que debería dividirse en dos o más clases.
+
+## Fan-out
+El Fan-out mide la dependencia de salida. Es decir, a cuántos otros componentes (clases, módulos, servicios) llama o utiliza una clase específica para realizar su trabajo.
+
+El impacto: Un Fan-out elevado indica que una clase es muy compleja porque "sabe demasiado" sobre el resto del sistema.
+
+Riesgos:
+- Fragilidad: Si cualquiera de las dependencias cambia, es muy probable que esta clase se rompa.
+- Dificultad de testeo: Para probar esta clase, necesitarás crear muchísimos mocks o stubs de todas sus dependencias.
+
+Regla de oro: Un Fan-out alto suele ser el síntoma principal de un código "espagueti" donde todo está acoplado con todo.
