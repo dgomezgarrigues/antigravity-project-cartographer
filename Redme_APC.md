@@ -61,3 +61,45 @@ Notas para la IA
 Prioriza la legibilidad del código y la modularidad.
 
 Si detectas dependencias cíclicas durante el parseo, inclúyelas en el JSON con una propiedad isCircular: true para resaltarlas en el UI.
+
+📦 Configuración del Entorno (Ecosistema Antigravity)
+Para que el proyecto funcione con la precisión de un reloj suizo, el archivo package.json debe incluir estas dependencias clave:
+
+JSON
+{
+  "name": "antigravity-project-cartographer",
+  "version": "1.0.0",
+  "dependencies": {
+    "@babel/parser": "^7.23.0",
+    "@babel/traverse": "^7.23.0",
+    "reactflow": "^11.10.0",
+    "dagre": "^0.8.5",
+    "fastify": "^4.24.0",
+    "fastify-static": "^4.5.0",
+    "typescript": "^5.2.0",
+    "lucide-react": "^0.284.0"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
+📂 Estructura de Archivos Propuesta
+Instruye a la IA para que organice el código de la siguiente manera:
+
+/bin/parser.js: El script de Node que utiliza Babel para leer el AST de los archivos .jsx / .tsx y busca los decoradores @customElement o las clases que extienden de LitElement.
+
+/src/components/GraphCanvas.jsx: El contenedor de React Flow que recibe el JSON y aplica la lógica de colores por profundidad.
+
+/src/hooks/useArchitectureSearch.js: Lógica personalizada para filtrar el grafo. Utiliza un algoritmo de búsqueda en anchura (BFS) para encontrar ancestros y descendientes.
+
+🧩 Lógica de Diferenciación (React vs Lit)
+Para que la IA no se confunda, dile que use estas reglas en el Parser:
+
+Detector de React: Busca funciones que retornen JSX o componentes que importen de 'react'.
+
+Detector de Lit: Busca el decorador @customElement('tag-name') o la herencia de la clase LitElement.
+
+Mapeo de Funciones: Identifica funciones exportadas fuera de los componentes y las marca con el tipo function para asignarles el color púrpura.
+
+Instrucción Final para Antigravity
+"Genera el código para parser.js asegurándote de que el objeto resultante sea un array de nodes y edges compatible con React Flow. Implementa una función recursiva que asigne el level (profundidad) a cada nodo basándose en su distancia desde el componente de entrada (main/index)."
