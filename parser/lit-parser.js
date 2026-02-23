@@ -32,7 +32,10 @@ function parseLitFile(code, filePath, rootDir) {
     const imports = [];
     const definitions = [];
     const calls = [];
+<<<<<<< HEAD
     const linesOfCode = code.split('\n').length;
+=======
+>>>>>>> main
 
     function visit(node) {
         if (ts.isImportDeclaration(node)) {
@@ -93,7 +96,11 @@ function parseLitFile(code, filePath, rootDir) {
 
     visit(sourceFile);
 
+<<<<<<< HEAD
     return { imports, definitions, calls, linesOfCode, fullPath: filePath };
+=======
+    return { imports, definitions, calls };
+>>>>>>> main
 }
 
 module.exports = { parseLitFile };
