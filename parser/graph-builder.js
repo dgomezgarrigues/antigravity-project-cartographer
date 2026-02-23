@@ -37,7 +37,16 @@ function buildGraph(modulesData) {
         nodeId = finalNodeId;
 
         // Register primary node
-        nodes.push({ id: nodeId, label: primaryDefinition, type: type, level: 2, complexity: complexity });
+        nodes.push({
+            id: nodeId,
+            label: primaryDefinition,
+            type: type,
+            level: 2,
+            complexity: complexity,
+            linesOfCode: data.linesOfCode || 0,
+            hooks: data.hooks || [],
+            fullPath: data.fullPath || filePath
+        });
         nodeIds.add(nodeId);
         nodeLevels.set(nodeId, 2);
         fileToNodeId.set(filePath, nodeId);
@@ -161,6 +170,23 @@ function buildGraph(modulesData) {
 
     nodes.forEach(n => {
         if (n.level === Infinity) n.level = 4;
+
+        // Calculate Fan-in and Fan-out
+        n.fanOut = edges.filter(e => e.source === n.id).length;
+        n.fanIn = edges.filter(e => e.target === n.id).length;
+
+        // Calculate Alert Flags
+        const isFragile = n.fanIn > 15;
+        const isGiant = n.linesOfCode > 300 && n.fanOut > 8;
+        const isComplex = n.complexity && n.complexity.cognitive > 20;
+        const isSlow = n.complexity && ['O(n^2)', 'O(n^3)', 'O(n!)', 'O(2^n)'].includes(n.complexity.bigO);
+
+        n.flags = {
+            isFragile,
+            isGiant,
+            isComplex,
+            isSlow
+        };
     });
 
     return { nodes, edges };

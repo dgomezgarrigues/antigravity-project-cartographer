@@ -9,6 +9,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_99.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -20,6 +31,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_98.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -31,6 +53,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_97.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -42,6 +75,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_96.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -53,6 +97,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_95.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -64,6 +119,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_94.ts",
+      "fanOut": 0,
+      "fanIn": 6,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -75,6 +141,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_93.ts",
+      "fanOut": 0,
+      "fanIn": 4,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -86,6 +163,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_92.ts",
+      "fanOut": 0,
+      "fanIn": 6,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -97,6 +185,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_91.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -108,6 +207,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_90.ts",
+      "fanOut": 0,
+      "fanIn": 6,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -119,6 +229,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_9.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -130,6 +251,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_89.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -141,6 +273,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_88.ts",
+      "fanOut": 0,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -152,6 +295,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_87.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -163,6 +317,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_86.ts",
+      "fanOut": 0,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -174,6 +339,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_85.ts",
+      "fanOut": 0,
+      "fanIn": 6,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -185,6 +361,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_84.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -196,6 +383,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_83.ts",
+      "fanOut": 0,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -207,6 +405,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_82.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -218,6 +427,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_81.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -229,6 +449,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_80.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -240,6 +471,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_8.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -251,6 +493,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_79.ts",
+      "fanOut": 0,
+      "fanIn": 5,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -262,6 +515,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_78.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -273,6 +537,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_77.ts",
+      "fanOut": 0,
+      "fanIn": 4,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -284,6 +559,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_76.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -295,6 +581,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_75.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -306,6 +603,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_74.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -317,6 +625,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_73.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -328,6 +647,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_72.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -339,6 +669,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_71.ts",
+      "fanOut": 0,
+      "fanIn": 5,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -350,6 +691,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_70.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -361,6 +713,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_7.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -372,6 +735,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_69.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -383,6 +757,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_68.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -394,6 +779,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_67.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -405,6 +801,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_66.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -416,6 +823,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_65.ts",
+      "fanOut": 0,
+      "fanIn": 4,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -427,6 +845,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_64.ts",
+      "fanOut": 0,
+      "fanIn": 5,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -438,6 +867,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_63.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -449,6 +889,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_62.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -460,6 +911,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_61.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -471,6 +933,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_60.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -482,6 +955,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_6.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -493,6 +977,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_59.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -504,6 +999,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_58.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -515,6 +1021,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_57.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -526,6 +1043,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_56.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -537,6 +1065,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_55.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -548,6 +1087,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_54.ts",
+      "fanOut": 0,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -559,6 +1109,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_53.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -570,6 +1131,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_52.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -581,6 +1153,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_51.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -592,6 +1175,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_50.ts",
+      "fanOut": 0,
+      "fanIn": 4,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -603,6 +1197,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_5.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -614,6 +1219,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_49.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -625,6 +1241,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_48.ts",
+      "fanOut": 0,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -636,6 +1263,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_47.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -647,6 +1285,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_46.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -658,6 +1307,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 17,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_45.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -669,6 +1329,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_44.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -680,6 +1351,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_43.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -691,6 +1373,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_42.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -702,6 +1395,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_41.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -713,6 +1417,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_40.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -724,6 +1439,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_4.ts",
+      "fanOut": 0,
+      "fanIn": 7,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -735,6 +1461,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_39.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -746,6 +1483,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_38.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -757,6 +1505,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_37.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -768,6 +1527,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_36.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -779,6 +1549,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_35.ts",
+      "fanOut": 0,
+      "fanIn": 5,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -790,6 +1571,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_34.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -801,6 +1593,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_33.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -812,6 +1615,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_32.ts",
+      "fanOut": 0,
+      "fanIn": 5,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -823,6 +1637,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_31.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -834,6 +1659,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_30.ts",
+      "fanOut": 0,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -845,6 +1681,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_3.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -856,6 +1703,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_29.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -867,6 +1725,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_28.ts",
+      "fanOut": 0,
+      "fanIn": 4,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -878,6 +1747,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_27.ts",
+      "fanOut": 0,
+      "fanIn": 7,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -889,6 +1769,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_26.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -900,6 +1791,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_25.ts",
+      "fanOut": 0,
+      "fanIn": 4,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -911,6 +1813,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_24.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -922,6 +1835,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_23.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -933,6 +1857,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_22.ts",
+      "fanOut": 0,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -944,6 +1879,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_21.ts",
+      "fanOut": 0,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -955,6 +1901,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_20.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -966,6 +1923,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_2.ts",
+      "fanOut": 0,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -977,6 +1945,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_19.ts",
+      "fanOut": 0,
+      "fanIn": 4,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -988,6 +1967,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_18.ts",
+      "fanOut": 0,
+      "fanIn": 4,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -999,6 +1989,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_17.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1010,6 +2011,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_16.ts",
+      "fanOut": 0,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1021,6 +2033,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_15.ts",
+      "fanOut": 0,
+      "fanIn": 5,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1032,6 +2055,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_14.ts",
+      "fanOut": 0,
+      "fanIn": 5,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1043,6 +2077,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_13.ts",
+      "fanOut": 0,
+      "fanIn": 3,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1054,6 +2099,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_12.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1065,6 +2121,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_11.ts",
+      "fanOut": 0,
+      "fanIn": 4,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1076,6 +2143,17 @@
         "cyclomatic": 3,
         "cognitive": 3,
         "bigO": "O(n^2)"
+      },
+      "linesOfCode": 18,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_100.ts",
+      "fanOut": 0,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": true
       }
     },
     {
@@ -1087,6 +2165,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 1,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_10.ts",
+      "fanOut": 0,
+      "fanIn": 4,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1098,6 +2187,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 7,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\utils\\func_1.ts",
+      "fanOut": 0,
+      "fanIn": 2,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1109,6 +2209,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_99.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1120,6 +2231,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_98.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1131,6 +2253,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_97.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1142,6 +2275,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_96.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1153,6 +2297,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_95.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1164,6 +2319,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_94.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1175,6 +2341,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_93.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1186,6 +2363,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_92.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1197,6 +2385,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_91.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1208,6 +2407,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_90.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1219,6 +2429,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_9.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1230,6 +2451,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_89.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1241,6 +2473,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_88.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1252,6 +2495,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_87.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1263,6 +2517,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_86.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1274,6 +2539,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_85.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1285,6 +2561,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_84.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1296,6 +2583,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_83.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1307,6 +2605,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_82.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1318,6 +2627,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_81.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1329,6 +2649,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_80.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1340,6 +2671,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_8.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1351,6 +2693,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_79.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1362,6 +2715,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_78.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1373,6 +2737,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_77.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1384,6 +2759,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_76.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1395,6 +2781,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_75.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1406,6 +2803,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_74.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1417,6 +2825,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_73.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1428,6 +2847,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_72.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1439,6 +2869,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_71.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1450,6 +2891,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_70.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1461,6 +2913,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_7.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1472,6 +2935,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_69.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1483,6 +2957,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_68.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1494,6 +2979,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_67.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1505,6 +3001,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_66.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1516,6 +3023,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_65.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1527,6 +3045,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_64.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1538,6 +3067,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_63.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1549,6 +3089,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_62.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1560,6 +3111,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_61.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1571,6 +3133,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_60.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1582,6 +3155,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_6.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1593,6 +3177,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_59.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1604,6 +3199,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_58.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1615,6 +3221,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_57.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1626,6 +3243,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_56.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1637,6 +3265,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_55.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1648,6 +3287,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_54.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1659,6 +3309,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_53.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1670,6 +3331,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_52.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1681,6 +3353,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_51.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1692,6 +3375,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_50.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1703,6 +3397,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_5.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1714,6 +3419,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_49.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1725,6 +3441,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_48.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1736,6 +3463,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_47.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1747,6 +3485,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_46.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1758,6 +3507,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_45.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1769,6 +3529,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_44.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1780,6 +3551,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_43.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1791,6 +3573,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_42.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1802,6 +3595,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_41.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1813,6 +3617,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_40.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1824,6 +3639,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_4.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1835,6 +3661,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_39.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1846,6 +3683,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_38.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1857,6 +3705,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_37.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1868,6 +3727,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_36.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1879,6 +3749,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_35.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1890,6 +3771,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_34.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1901,6 +3793,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_33.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1912,6 +3815,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_32.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1923,6 +3837,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_31.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1934,6 +3859,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_30.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1945,6 +3881,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_3.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1956,6 +3903,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_29.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1967,6 +3925,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_28.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1978,6 +3947,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_27.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -1989,6 +3969,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_26.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2000,6 +3991,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_25.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2011,6 +4013,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_24.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2022,6 +4035,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_23.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2033,6 +4057,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_22.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2044,6 +4079,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_21.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2055,6 +4101,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_200.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2066,6 +4123,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_20.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2077,6 +4145,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_2.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2088,6 +4167,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_199.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2099,6 +4189,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_198.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2110,6 +4211,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_197.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2121,6 +4233,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_196.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2132,6 +4255,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_195.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2143,6 +4277,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_194.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2154,6 +4299,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_193.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2165,6 +4321,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_192.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2176,6 +4343,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_191.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2187,6 +4365,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_190.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2198,6 +4387,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_19.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2209,6 +4409,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_189.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2220,6 +4431,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_188.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2231,6 +4453,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_187.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2242,6 +4475,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_186.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2253,6 +4497,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_185.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2264,6 +4519,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_184.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2275,6 +4541,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_183.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2286,6 +4563,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_182.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2297,6 +4585,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_181.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2308,6 +4607,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_180.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2319,6 +4629,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_18.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2330,6 +4651,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_179.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2341,6 +4673,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_178.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2352,6 +4695,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_177.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2363,6 +4717,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_176.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2374,6 +4739,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_175.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2385,6 +4761,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_174.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2396,6 +4783,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_173.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2407,6 +4805,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_172.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2418,6 +4827,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_171.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2429,6 +4849,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_170.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2440,6 +4871,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_17.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2451,6 +4893,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_169.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2462,6 +4915,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_168.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2473,6 +4937,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_167.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2484,6 +4959,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_166.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2495,6 +4981,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_165.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2506,6 +5003,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_164.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2517,6 +5025,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_163.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2528,6 +5047,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_162.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2539,6 +5069,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_161.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2550,6 +5091,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_160.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2561,6 +5113,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_16.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2572,6 +5135,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_159.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2583,6 +5157,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_158.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2594,6 +5179,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_157.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2605,6 +5201,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_156.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2616,6 +5223,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_155.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2627,6 +5245,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_154.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2638,6 +5267,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_153.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2649,6 +5289,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_152.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2660,6 +5311,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_151.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2671,6 +5333,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_150.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2682,6 +5355,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_15.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2693,6 +5377,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_149.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2704,6 +5399,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_148.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2715,6 +5421,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_147.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2726,6 +5443,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_146.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2737,6 +5465,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_145.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2748,6 +5487,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_144.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2759,6 +5509,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_143.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2770,6 +5531,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_142.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2781,6 +5553,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_141.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2792,6 +5575,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_140.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2803,6 +5597,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_14.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2814,6 +5619,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_139.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2825,6 +5641,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_138.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2836,6 +5663,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_137.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2847,6 +5685,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_136.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2858,6 +5707,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_135.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2869,6 +5729,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_134.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2880,6 +5751,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_133.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2891,6 +5773,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_132.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2902,6 +5795,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_131.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2913,6 +5817,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_130.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2924,6 +5839,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_13.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2935,6 +5861,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_129.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2946,6 +5883,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_128.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2957,6 +5905,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_127.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2968,6 +5927,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_126.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2979,6 +5949,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_125.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -2990,6 +5971,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_124.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3001,6 +5993,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_123.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3012,6 +6015,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_122.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3023,6 +6037,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_121.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3034,6 +6059,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_120.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3045,6 +6081,17 @@
         "cyclomatic": 11,
         "cognitive": 29,
         "bigO": "O(n)"
+      },
+      "linesOfCode": 35,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_12.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": true,
+        "isSlow": false
       }
     },
     {
@@ -3056,6 +6103,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_119.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3067,6 +6125,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_118.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3078,6 +6147,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_117.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3089,6 +6169,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_116.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3100,6 +6191,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_115.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3111,6 +6213,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_114.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3122,6 +6235,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_113.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3133,6 +6257,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_112.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3144,6 +6279,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_111.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3155,6 +6301,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_110.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3166,6 +6323,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_11.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3177,6 +6345,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_109.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3188,6 +6367,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_108.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3199,6 +6389,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_107.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3210,6 +6411,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_106.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3221,6 +6433,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_105.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3232,6 +6455,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_104.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3243,6 +6477,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_103.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3254,6 +6499,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_102.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3265,6 +6521,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_101.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3276,6 +6543,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_100.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3287,6 +6565,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_10.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3298,6 +6587,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\coreComponents\\Atom_1.ts",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3309,6 +6609,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 11,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B5\\wrap.jsx",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3320,6 +6631,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 4,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B5\\include.tsx",
+      "fanOut": 4,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3331,6 +6653,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B5\\app-inventada-B5.tsx",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3342,6 +6675,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B5\\components\\Internal_B5_4.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3353,6 +6697,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B5\\components\\Internal_B5_3.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3364,6 +6719,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B5\\components\\Internal_B5_2.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3375,6 +6741,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B5\\components\\Internal_B5_1.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3386,6 +6763,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 11,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B4\\wrap.jsx",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3397,6 +6785,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 4,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B4\\include.tsx",
+      "fanOut": 4,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3408,6 +6807,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B4\\app-inventada-B4.tsx",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3419,6 +6829,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B4\\components\\Internal_B4_4.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3430,6 +6851,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B4\\components\\Internal_B4_3.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3441,6 +6873,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B4\\components\\Internal_B4_2.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3452,6 +6895,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B4\\components\\Internal_B4_1.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3463,6 +6917,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 11,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B3\\wrap.jsx",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3474,6 +6939,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 4,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B3\\include.tsx",
+      "fanOut": 4,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3485,6 +6961,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B3\\app-inventada-B3.tsx",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3496,6 +6983,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B3\\components\\Internal_B3_4.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3507,6 +7005,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B3\\components\\Internal_B3_3.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3518,6 +7027,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B3\\components\\Internal_B3_2.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3529,6 +7049,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B3\\components\\Internal_B3_1.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3540,6 +7071,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 11,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B2\\wrap.jsx",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3551,6 +7093,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 4,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B2\\include.tsx",
+      "fanOut": 4,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3562,6 +7115,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B2\\app-inventada-B2.tsx",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3573,6 +7137,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B2\\components\\Internal_B2_4.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3584,6 +7159,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B2\\components\\Internal_B2_3.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3595,6 +7181,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B2\\components\\Internal_B2_2.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3606,6 +7203,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B2\\components\\Internal_B2_1.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3617,6 +7225,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 11,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B1\\wrap.jsx",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3628,6 +7247,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 4,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B1\\include.tsx",
+      "fanOut": 4,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3639,6 +7269,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B1\\app-inventada-B1.tsx",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3650,6 +7291,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B1\\components\\Internal_B1_4.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3661,6 +7313,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B1\\components\\Internal_B1_3.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3672,6 +7335,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B1\\components\\Internal_B1_2.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3683,6 +7357,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps2\\app-inventada-B1\\components\\Internal_B1_1.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3694,6 +7379,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 11,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A5\\wrap.jsx",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3705,6 +7401,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 4,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A5\\include.tsx",
+      "fanOut": 4,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3716,6 +7423,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A5\\app-inventada-A5.tsx",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3727,6 +7445,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A5\\components\\Internal_A5_4.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3738,6 +7467,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A5\\components\\Internal_A5_3.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3749,6 +7489,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A5\\components\\Internal_A5_2.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3760,6 +7511,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A5\\components\\Internal_A5_1.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3771,6 +7533,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 11,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A4\\wrap.jsx",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3782,6 +7555,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 4,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A4\\include.tsx",
+      "fanOut": 4,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3793,6 +7577,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A4\\app-inventada-A4.tsx",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3804,6 +7599,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A4\\components\\Internal_A4_4.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3815,6 +7621,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A4\\components\\Internal_A4_3.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3826,6 +7643,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A4\\components\\Internal_A4_2.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3837,6 +7665,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A4\\components\\Internal_A4_1.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3848,6 +7687,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 11,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A3\\wrap.jsx",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3859,6 +7709,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 4,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A3\\include.tsx",
+      "fanOut": 4,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3870,6 +7731,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A3\\app-inventada-A3.tsx",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3881,6 +7753,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A3\\components\\Internal_A3_4.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3892,6 +7775,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A3\\components\\Internal_A3_3.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3903,6 +7797,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A3\\components\\Internal_A3_2.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3914,6 +7819,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A3\\components\\Internal_A3_1.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3925,6 +7841,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 11,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A2\\wrap.jsx",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3936,6 +7863,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 4,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A2\\include.tsx",
+      "fanOut": 4,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3947,6 +7885,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A2\\app-inventada-A2.tsx",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3958,6 +7907,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A2\\components\\Internal_A2_4.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3969,6 +7929,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A2\\components\\Internal_A2_3.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3980,6 +7951,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A2\\components\\Internal_A2_2.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -3991,6 +7973,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A2\\components\\Internal_A2_1.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -4002,6 +7995,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 11,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A1\\wrap.jsx",
+      "fanOut": 1,
+      "fanIn": 0,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -4013,6 +8017,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 4,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A1\\include.tsx",
+      "fanOut": 4,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -4024,6 +8039,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A1\\app-inventada-A1.tsx",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -4035,6 +8061,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A1\\components\\Internal_A1_4.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -4046,6 +8083,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A1\\components\\Internal_A1_3.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -4057,6 +8105,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A1\\components\\Internal_A1_2.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     },
     {
@@ -4068,6 +8127,17 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
+      },
+      "linesOfCode": 9,
+      "hooks": [],
+      "fullPath": "C:\\Users\\atoms\\Documents\\AI-projects\\proyecto-sacrificio\\antigravity-stress-test\\Apps\\app-inventada-A1\\components\\Internal_A1_1.ts",
+      "fanOut": 1,
+      "fanIn": 1,
+      "flags": {
+        "isFragile": false,
+        "isGiant": false,
+        "isComplex": false,
+        "isSlow": false
       }
     }
   ],

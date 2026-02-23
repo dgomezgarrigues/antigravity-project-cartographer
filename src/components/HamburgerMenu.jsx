@@ -60,7 +60,7 @@ export default function HamburgerMenu({ isXRayMode, toggleXRay, isDashboardOpen,
                     </div>
                     <button style={menuItemStyle} onClick={() => { setIsOpen(false); toggleDashboard(); }}>
                         <Settings size={16} className={isDashboardOpen ? "text-cyan-400" : ""} />
-                        <span className={isDashboardOpen ? "text-cyan-400 font-semibold" : ""}>Complexity Dashboard</span>
+                        <span className={isDashboardOpen ? "text-cyan-400 font-semibold" : ""}>Interactive Inspector</span>
                     </button>
                     <button style={menuItemStyle} onClick={() => { setIsOpen(false); toggleXRay(); }}>
                         <Box size={16} className={isXRayMode ? "text-green-400" : ""} />

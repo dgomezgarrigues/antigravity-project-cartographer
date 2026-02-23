@@ -6,6 +6,8 @@ export function CustomNode({ data }) {
     const isXRay = data.isXRayMode;
     const bgColor = isXRay ? getComplexityColor(data.complexity) : getNodeColor(data.level, data.type, data.isCircular);
     const isDanger = isXRay && (bgColor === THEME.colors.xrayDanger || bgColor === THEME.colors.xrayCritical);
+    const flags = data.flags || {};
+    const hasFlags = Object.values(flags).some(Boolean);
 
     const Icon = () => {
         if (data.isCircular) return <AlertTriangle size={16} />;
@@ -44,6 +46,14 @@ export function CustomNode({ data }) {
                     {data.type} • L{data.level}
                 </div>
             </div>
+            {hasFlags && (
+                <div style={{ position: 'absolute', top: '-10px', right: '-10px', display: 'flex', gap: '2px', background: 'rgba(0,0,0,0.8)', padding: '2px 4px', borderRadius: '12px', border: '1px solid #444', fontSize: '12px' }}>
+                    {flags.isFragile && <span title="Critical Dependency">🦋</span>}
+                    {flags.isGiant && <span title="God Object">🧠</span>}
+                    {flags.isComplex && <span title="Spaghetti Logic">🍝</span>}
+                    {flags.isSlow && <span title="Performance Bottleneck">🐢</span>}
+                </div>
+            )}
             <Handle type="source" position={Position.Bottom} style={{ background: '#555' }} />
         </div>
     );
