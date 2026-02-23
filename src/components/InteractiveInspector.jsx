@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { FileCode2, Link, Copy, Check, GitPullRequest, Activity, AlertTriangle, Bug, Code2, Cpu } from 'lucide-react';
+import { FileCode2, Link, Copy, Check, GitPullRequest, Activity, AlertTriangle, Bug, Code2, Cpu, Database, Terminal } from 'lucide-react';
 import HealthInspector from './HealthInspector';
 import RefactorTerminal from './RefactorTerminal';
 
 const TABS = [
-    { id: 'data', label: 'CARD DATA' },
-    { id: 'refactor', label: 'REFACTOR SANDBOX' }
+    { id: 'data', label: 'Card Data', icon: Database },
+    { id: 'refactor', label: 'Refactor Sandbox', icon: Terminal }
 ];
 
 export default function InteractiveInspector({ isOpen, selectedNode }) {
@@ -26,6 +26,10 @@ export default function InteractiveInspector({ isOpen, selectedNode }) {
     const hooks = nodeData.hooks || [];
 
     const hasAlerts = Object.values(flags).some(Boolean);
+
+    const displayPath = nodeData.fullPath && nodeData.fullPath.includes('proyecto-sacrificio')
+        ? nodeData.fullPath.substring(nodeData.fullPath.indexOf('proyecto-sacrificio'))
+        : nodeData.fullPath;
 
     return (
         <AnimatePresence>
@@ -64,9 +68,10 @@ export default function InteractiveInspector({ isOpen, selectedNode }) {
                                             />
                                         )}
                                         <span className="relative flex items-center justify-center gap-1.5">
+                                            {tab.icon && <tab.icon size={14} className={isRefactor && hasAlerts ? "text-red-400" : ""} />}
                                             {tab.label}
                                             {isRefactor && hasAlerts && (
-                                                <span className="flex h-2 w-2 relative">
+                                                <span className="flex h-2 w-2 relative ml-1">
                                                     <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
                                                     <span className="relative inline-flex rounded-full h-2 w-2 bg-red-500"></span>
                                                 </span>
@@ -109,10 +114,10 @@ export default function InteractiveInspector({ isOpen, selectedNode }) {
                                                         <div className="flex items-center gap-2 mt-2">
                                                             <div className="flex-1 overflow-hidden rounded bg-black/40 border border-gray-800 flex items-center p-1">
                                                                 <div className="px-2 text-gray-500"><Link size={12} /></div>
-                                                                <div className="text-[10px] text-gray-400 font-mono truncate select-all">{nodeData.fullPath}</div>
+                                                                <div className="text-[10px] text-gray-400 font-mono truncate select-all">{displayPath}</div>
                                                             </div>
                                                             <button
-                                                                onClick={() => handleCopy(nodeData.fullPath)}
+                                                                onClick={() => handleCopy(displayPath)}
                                                                 className="p-1.5 rounded bg-gray-800 hover:bg-gray-700 text-gray-300 transition-colors"
                                                                 title="Copy URI"
                                                             >
