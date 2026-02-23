@@ -9,7 +9,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -21,8 +20,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -34,7 +31,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -46,8 +42,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -59,7 +53,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -71,8 +64,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -84,7 +75,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -96,8 +86,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -109,7 +97,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -121,8 +108,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -134,7 +119,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -146,8 +130,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -159,7 +141,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -171,8 +152,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -184,7 +163,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -196,8 +174,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -209,7 +185,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -221,8 +196,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -234,7 +207,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -246,8 +218,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -259,7 +229,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -271,8 +240,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -284,7 +251,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -296,8 +262,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -309,7 +273,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -321,8 +284,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -334,7 +295,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -346,8 +306,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -359,7 +317,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -371,8 +328,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -384,7 +339,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -396,8 +350,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -409,7 +361,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -421,8 +372,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -434,7 +383,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -446,8 +394,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -459,7 +405,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -471,8 +416,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -484,7 +427,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -496,8 +438,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -509,7 +449,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -521,8 +460,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -534,7 +471,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -546,8 +482,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -559,7 +493,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -571,8 +504,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -584,7 +515,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -596,8 +526,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -609,7 +537,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -621,8 +548,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -634,7 +559,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -646,8 +570,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -659,7 +581,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -671,8 +592,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -684,7 +603,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -696,8 +614,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -709,7 +625,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -721,8 +636,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -734,7 +647,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -746,8 +658,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -759,7 +669,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -771,8 +680,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -784,7 +691,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -796,8 +702,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -809,7 +713,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -821,8 +724,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -834,7 +735,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -846,8 +746,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -859,7 +757,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -871,8 +768,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -884,7 +779,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -896,8 +790,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -909,7 +801,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -921,8 +812,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -934,7 +823,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -946,8 +834,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -959,7 +845,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -971,8 +856,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -984,7 +867,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -996,8 +878,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1009,7 +889,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1021,8 +900,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1034,7 +911,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1046,8 +922,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1059,7 +933,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1071,8 +944,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1084,7 +955,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1096,8 +966,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1109,7 +977,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1121,8 +988,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1134,7 +999,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1146,8 +1010,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1159,7 +1021,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1171,8 +1032,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1184,7 +1043,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1196,8 +1054,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1209,7 +1065,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1221,8 +1076,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1234,7 +1087,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1246,8 +1098,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1259,7 +1109,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1271,8 +1120,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1284,7 +1131,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1296,8 +1142,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1309,7 +1153,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1321,8 +1164,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1334,7 +1175,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1346,8 +1186,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1359,7 +1197,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1371,8 +1208,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1384,7 +1219,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1396,8 +1230,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1409,7 +1241,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1421,8 +1252,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1434,7 +1263,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1446,8 +1274,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1459,7 +1285,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1471,8 +1296,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1484,7 +1307,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 17,
       "hooks": [],
@@ -1496,8 +1318,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1509,7 +1329,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1521,8 +1340,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1534,7 +1351,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1546,8 +1362,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1559,7 +1373,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1571,8 +1384,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1584,7 +1395,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1596,8 +1406,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1609,7 +1417,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1621,8 +1428,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1634,7 +1439,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1646,8 +1450,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1659,7 +1461,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1671,8 +1472,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1684,7 +1483,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1696,8 +1494,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1709,7 +1505,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1721,8 +1516,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1734,7 +1527,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1746,8 +1538,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1759,7 +1549,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1771,8 +1560,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1784,7 +1571,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1796,8 +1582,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1809,7 +1593,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1821,8 +1604,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1834,7 +1615,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1846,8 +1626,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1859,7 +1637,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1871,8 +1648,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1884,7 +1659,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1896,8 +1670,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1909,7 +1681,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1921,8 +1692,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1934,7 +1703,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1946,8 +1714,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1959,7 +1725,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1971,8 +1736,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -1984,7 +1747,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -1996,8 +1758,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2009,7 +1769,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2021,8 +1780,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2034,7 +1791,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2046,8 +1802,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2059,7 +1813,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2071,8 +1824,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2084,7 +1835,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2096,8 +1846,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2109,7 +1857,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2121,8 +1868,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2134,7 +1879,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2146,8 +1890,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2159,7 +1901,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2171,8 +1912,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2184,7 +1923,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2196,8 +1934,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2209,7 +1945,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2221,8 +1956,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2234,7 +1967,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2246,8 +1978,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2259,7 +1989,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2271,8 +2000,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2284,7 +2011,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2296,8 +2022,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2309,7 +2033,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2321,8 +2044,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2334,7 +2055,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2346,8 +2066,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2359,7 +2077,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2371,8 +2088,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2384,7 +2099,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2396,8 +2110,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2409,7 +2121,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2421,8 +2132,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2434,7 +2143,6 @@
         "cyclomatic": 3,
         "cognitive": 3,
         "bigO": "O(n^2)"
-<<<<<<< HEAD
       },
       "linesOfCode": 18,
       "hooks": [],
@@ -2446,8 +2154,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": true
-=======
->>>>>>> main
       }
     },
     {
@@ -2459,7 +2165,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 1,
       "hooks": [],
@@ -2471,8 +2176,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2484,7 +2187,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 7,
       "hooks": [],
@@ -2496,8 +2198,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2509,7 +2209,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2521,8 +2220,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2534,7 +2231,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2546,8 +2242,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2559,7 +2253,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2571,8 +2264,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2584,7 +2275,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2596,8 +2286,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2609,7 +2297,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2621,8 +2308,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2634,7 +2319,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2646,8 +2330,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2659,7 +2341,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2671,8 +2352,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2684,7 +2363,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2696,8 +2374,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2709,7 +2385,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2721,8 +2396,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2734,7 +2407,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2746,8 +2418,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2759,7 +2429,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2771,8 +2440,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2784,7 +2451,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2796,8 +2462,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2809,7 +2473,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2821,8 +2484,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2834,7 +2495,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2846,8 +2506,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2859,7 +2517,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2871,8 +2528,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2884,7 +2539,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2896,8 +2550,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2909,7 +2561,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2921,8 +2572,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2934,7 +2583,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2946,8 +2594,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2959,7 +2605,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2971,8 +2616,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -2984,7 +2627,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -2996,8 +2638,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3009,7 +2649,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3021,8 +2660,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3034,7 +2671,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3046,8 +2682,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3059,7 +2693,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3071,8 +2704,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3084,7 +2715,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3096,8 +2726,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3109,7 +2737,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3121,8 +2748,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3134,7 +2759,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3146,8 +2770,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3159,7 +2781,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3171,8 +2792,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3184,7 +2803,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3196,8 +2814,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3209,7 +2825,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3221,8 +2836,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3234,7 +2847,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3246,8 +2858,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3259,7 +2869,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3271,8 +2880,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3284,7 +2891,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3296,8 +2902,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3309,7 +2913,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3321,8 +2924,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3334,7 +2935,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3346,8 +2946,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3359,7 +2957,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3371,8 +2968,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3384,7 +2979,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3396,8 +2990,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3409,7 +3001,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3421,8 +3012,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3434,7 +3023,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3446,8 +3034,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3459,7 +3045,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3471,8 +3056,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3484,7 +3067,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3496,8 +3078,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3509,7 +3089,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3521,8 +3100,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3534,7 +3111,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3546,8 +3122,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3559,7 +3133,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3571,8 +3144,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3584,7 +3155,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3596,8 +3166,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3609,7 +3177,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3621,8 +3188,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3634,7 +3199,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3646,8 +3210,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3659,7 +3221,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3671,8 +3232,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3684,7 +3243,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3696,8 +3254,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3709,7 +3265,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3721,8 +3276,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3734,7 +3287,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3746,8 +3298,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3759,7 +3309,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3771,8 +3320,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3784,7 +3331,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3796,8 +3342,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3809,7 +3353,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3821,8 +3364,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3834,7 +3375,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3846,8 +3386,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3859,7 +3397,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3871,8 +3408,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3884,7 +3419,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3896,8 +3430,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3909,7 +3441,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3921,8 +3452,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3934,7 +3463,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3946,8 +3474,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3959,7 +3485,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3971,8 +3496,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -3984,7 +3507,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -3996,8 +3518,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4009,7 +3529,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4021,8 +3540,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4034,7 +3551,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4046,8 +3562,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4059,7 +3573,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4071,8 +3584,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4084,7 +3595,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4096,8 +3606,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4109,7 +3617,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4121,8 +3628,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4134,7 +3639,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4146,8 +3650,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4159,7 +3661,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4171,8 +3672,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4184,7 +3683,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4196,8 +3694,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4209,7 +3705,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4221,8 +3716,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4234,7 +3727,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4246,8 +3738,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4259,7 +3749,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4271,8 +3760,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4284,7 +3771,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4296,8 +3782,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4309,7 +3793,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4321,8 +3804,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4334,7 +3815,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4346,8 +3826,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4359,7 +3837,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4371,8 +3848,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4384,7 +3859,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4396,8 +3870,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4409,7 +3881,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4421,8 +3892,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4434,7 +3903,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4446,8 +3914,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4459,7 +3925,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4471,8 +3936,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4484,7 +3947,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4496,8 +3958,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4509,7 +3969,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4521,8 +3980,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4534,7 +3991,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4546,8 +4002,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4559,7 +4013,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4571,8 +4024,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4584,7 +4035,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4596,8 +4046,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4609,7 +4057,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4621,8 +4068,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4634,7 +4079,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4646,8 +4090,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4659,7 +4101,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4671,8 +4112,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4684,7 +4123,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4696,8 +4134,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4709,7 +4145,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4721,8 +4156,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4734,7 +4167,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4746,8 +4178,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4759,7 +4189,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4771,8 +4200,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4784,7 +4211,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4796,8 +4222,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4809,7 +4233,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4821,8 +4244,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4834,7 +4255,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4846,8 +4266,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4859,7 +4277,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4871,8 +4288,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4884,7 +4299,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4896,8 +4310,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4909,7 +4321,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4921,8 +4332,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4934,7 +4343,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4946,8 +4354,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4959,7 +4365,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4971,8 +4376,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -4984,7 +4387,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -4996,8 +4398,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5009,7 +4409,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5021,8 +4420,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5034,7 +4431,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5046,8 +4442,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5059,7 +4453,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5071,8 +4464,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5084,7 +4475,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5096,8 +4486,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5109,7 +4497,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5121,8 +4508,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5134,7 +4519,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5146,8 +4530,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5159,7 +4541,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5171,8 +4552,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5184,7 +4563,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5196,8 +4574,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5209,7 +4585,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5221,8 +4596,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5234,7 +4607,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5246,8 +4618,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5259,7 +4629,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5271,8 +4640,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5284,7 +4651,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5296,8 +4662,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5309,7 +4673,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5321,8 +4684,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5334,7 +4695,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5346,8 +4706,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5359,7 +4717,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5371,8 +4728,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5384,7 +4739,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5396,8 +4750,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5409,7 +4761,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5421,8 +4772,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5434,7 +4783,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5446,8 +4794,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5459,7 +4805,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5471,8 +4816,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5484,7 +4827,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5496,8 +4838,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5509,7 +4849,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5521,8 +4860,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5534,7 +4871,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5546,8 +4882,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5559,7 +4893,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5571,8 +4904,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5584,7 +4915,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5596,8 +4926,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5609,7 +4937,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5621,8 +4948,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5634,7 +4959,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5646,8 +4970,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5659,7 +4981,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5671,8 +4992,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5684,7 +5003,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5696,8 +5014,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5709,7 +5025,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5721,8 +5036,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5734,7 +5047,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5746,8 +5058,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5759,7 +5069,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5771,8 +5080,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5784,7 +5091,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5796,8 +5102,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5809,7 +5113,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5821,8 +5124,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5834,7 +5135,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5846,8 +5146,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5859,7 +5157,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5871,8 +5168,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5884,7 +5179,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5896,8 +5190,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5909,7 +5201,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5921,8 +5212,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5934,7 +5223,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5946,8 +5234,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5959,7 +5245,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5971,8 +5256,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -5984,7 +5267,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -5996,8 +5278,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6009,7 +5289,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6021,8 +5300,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6034,7 +5311,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6046,8 +5322,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6059,7 +5333,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6071,8 +5344,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6084,7 +5355,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6096,8 +5366,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6109,7 +5377,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6121,8 +5388,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6134,7 +5399,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6146,8 +5410,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6159,7 +5421,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6171,8 +5432,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6184,7 +5443,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6196,8 +5454,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6209,7 +5465,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6221,8 +5476,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6234,7 +5487,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6246,8 +5498,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6259,7 +5509,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6271,8 +5520,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6284,7 +5531,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6296,8 +5542,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6309,7 +5553,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6321,8 +5564,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6334,7 +5575,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6346,8 +5586,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6359,7 +5597,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6371,8 +5608,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6384,7 +5619,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6396,8 +5630,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6409,7 +5641,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6421,8 +5652,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6434,7 +5663,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6446,8 +5674,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6459,7 +5685,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6471,8 +5696,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6484,7 +5707,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6496,8 +5718,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6509,7 +5729,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6521,8 +5740,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6534,7 +5751,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6546,8 +5762,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6559,7 +5773,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6571,8 +5784,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6584,7 +5795,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6596,8 +5806,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6609,7 +5817,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6621,8 +5828,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6634,7 +5839,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6646,8 +5850,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6659,7 +5861,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6671,8 +5872,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6684,7 +5883,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6696,8 +5894,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6709,7 +5905,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6721,8 +5916,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6734,7 +5927,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6746,8 +5938,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6759,7 +5949,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6771,8 +5960,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6784,7 +5971,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6796,8 +5982,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6809,7 +5993,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6821,8 +6004,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6834,7 +6015,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6846,8 +6026,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6859,7 +6037,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6871,8 +6048,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6884,7 +6059,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6896,8 +6070,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6909,7 +6081,6 @@
         "cyclomatic": 11,
         "cognitive": 29,
         "bigO": "O(n)"
-<<<<<<< HEAD
       },
       "linesOfCode": 35,
       "hooks": [],
@@ -6921,8 +6092,6 @@
         "isGiant": false,
         "isComplex": true,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6934,7 +6103,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6946,8 +6114,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6959,7 +6125,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6971,8 +6136,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -6984,7 +6147,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -6996,8 +6158,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7009,7 +6169,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7021,8 +6180,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7034,7 +6191,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7046,8 +6202,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7059,7 +6213,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7071,8 +6224,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7084,7 +6235,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7096,8 +6246,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7109,7 +6257,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7121,8 +6268,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7134,7 +6279,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7146,8 +6290,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7159,7 +6301,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7171,8 +6312,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7184,7 +6323,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7196,8 +6334,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7209,7 +6345,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7221,8 +6356,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7234,7 +6367,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7246,8 +6378,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7259,7 +6389,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7271,8 +6400,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7284,7 +6411,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7296,8 +6422,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7309,7 +6433,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7321,8 +6444,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7334,7 +6455,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7346,8 +6466,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7359,7 +6477,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7371,8 +6488,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7384,7 +6499,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7396,8 +6510,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7409,7 +6521,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7421,8 +6532,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7434,7 +6543,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7446,8 +6554,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7459,7 +6565,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7471,8 +6576,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7484,7 +6587,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7496,8 +6598,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7509,7 +6609,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 11,
       "hooks": [],
@@ -7521,8 +6620,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7534,7 +6631,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 4,
       "hooks": [],
@@ -7546,8 +6642,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7559,7 +6653,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7571,8 +6664,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7584,7 +6675,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7596,8 +6686,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7609,7 +6697,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7621,8 +6708,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7634,7 +6719,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7646,8 +6730,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7659,7 +6741,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7671,8 +6752,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7684,7 +6763,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 11,
       "hooks": [],
@@ -7696,8 +6774,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7709,7 +6785,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 4,
       "hooks": [],
@@ -7721,8 +6796,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7734,7 +6807,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7746,8 +6818,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7759,7 +6829,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7771,8 +6840,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7784,7 +6851,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7796,8 +6862,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7809,7 +6873,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7821,8 +6884,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7834,7 +6895,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7846,8 +6906,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7859,7 +6917,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 11,
       "hooks": [],
@@ -7871,8 +6928,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7884,7 +6939,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 4,
       "hooks": [],
@@ -7896,8 +6950,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7909,7 +6961,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7921,8 +6972,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7934,7 +6983,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7946,8 +6994,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7959,7 +7005,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7971,8 +7016,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -7984,7 +7027,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -7996,8 +7038,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8009,7 +7049,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8021,8 +7060,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8034,7 +7071,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 11,
       "hooks": [],
@@ -8046,8 +7082,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8059,7 +7093,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 4,
       "hooks": [],
@@ -8071,8 +7104,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8084,7 +7115,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8096,8 +7126,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8109,7 +7137,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8121,8 +7148,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8134,7 +7159,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8146,8 +7170,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8159,7 +7181,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8171,8 +7192,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8184,7 +7203,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8196,8 +7214,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8209,7 +7225,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 11,
       "hooks": [],
@@ -8221,8 +7236,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8234,7 +7247,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 4,
       "hooks": [],
@@ -8246,8 +7258,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8259,7 +7269,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8271,8 +7280,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8284,7 +7291,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8296,8 +7302,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8309,7 +7313,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8321,8 +7324,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8334,7 +7335,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8346,8 +7346,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8359,7 +7357,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8371,8 +7368,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8384,7 +7379,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 11,
       "hooks": [],
@@ -8396,8 +7390,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8409,7 +7401,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 4,
       "hooks": [],
@@ -8421,8 +7412,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8434,7 +7423,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8446,8 +7434,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8459,7 +7445,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8471,8 +7456,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8484,7 +7467,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8496,8 +7478,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8509,7 +7489,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8521,8 +7500,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8534,7 +7511,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8546,8 +7522,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8559,7 +7533,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 11,
       "hooks": [],
@@ -8571,8 +7544,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8584,7 +7555,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 4,
       "hooks": [],
@@ -8596,8 +7566,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8609,7 +7577,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8621,8 +7588,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8634,7 +7599,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8646,8 +7610,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8659,7 +7621,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8671,8 +7632,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8684,7 +7643,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8696,8 +7654,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8709,7 +7665,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8721,8 +7676,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8734,7 +7687,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 11,
       "hooks": [],
@@ -8746,8 +7698,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8759,7 +7709,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 4,
       "hooks": [],
@@ -8771,8 +7720,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8784,7 +7731,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8796,8 +7742,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8809,7 +7753,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8821,8 +7764,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8834,7 +7775,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8846,8 +7786,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8859,7 +7797,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8871,8 +7808,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8884,7 +7819,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8896,8 +7830,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8909,7 +7841,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 11,
       "hooks": [],
@@ -8921,8 +7852,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8934,7 +7863,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 4,
       "hooks": [],
@@ -8946,8 +7874,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8959,7 +7885,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8971,8 +7896,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -8984,7 +7907,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -8996,8 +7918,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -9009,7 +7929,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -9021,8 +7940,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -9034,7 +7951,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -9046,8 +7962,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -9059,7 +7973,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -9071,8 +7984,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -9084,7 +7995,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 11,
       "hooks": [],
@@ -9096,8 +8006,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -9109,7 +8017,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 4,
       "hooks": [],
@@ -9121,8 +8028,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -9134,7 +8039,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -9146,8 +8050,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -9159,7 +8061,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -9171,8 +8072,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -9184,7 +8083,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -9196,8 +8094,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -9209,7 +8105,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -9221,8 +8116,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     },
     {
@@ -9234,7 +8127,6 @@
         "cyclomatic": 1,
         "cognitive": 0,
         "bigO": "O(1)"
-<<<<<<< HEAD
       },
       "linesOfCode": 9,
       "hooks": [],
@@ -9246,8 +8138,6 @@
         "isGiant": false,
         "isComplex": false,
         "isSlow": false
-=======
->>>>>>> main
       }
     }
   ],

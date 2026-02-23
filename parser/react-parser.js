@@ -17,11 +17,8 @@ function parseReactFile(code, filePath, rootDir) {
     const imports = [];
     const definitions = [];
     const calls = [];
-<<<<<<< HEAD
     const hooks = new Set();
     const linesOfCode = code.split('\n').length;
-=======
->>>>>>> main
 
     traverse(ast, {
         ImportDeclaration(pathNode) {
@@ -65,15 +62,11 @@ function parseReactFile(code, filePath, rootDir) {
         },
         CallExpression(pathNode) {
             if (pathNode.node.callee.type === 'Identifier') {
-<<<<<<< HEAD
                 const name = pathNode.node.callee.name;
                 calls.push(name);
                 if (name.startsWith('use')) {
                     hooks.add(name);
                 }
-=======
-                calls.push(pathNode.node.callee.name);
->>>>>>> main
             }
         },
         JSXElement(pathNode) {
@@ -84,11 +77,7 @@ function parseReactFile(code, filePath, rootDir) {
         }
     });
 
-<<<<<<< HEAD
     return { imports, definitions, calls, hooks: Array.from(hooks), linesOfCode, fullPath: filePath };
-=======
-    return { imports, definitions, calls };
->>>>>>> main
 }
 
 module.exports = { parseReactFile };

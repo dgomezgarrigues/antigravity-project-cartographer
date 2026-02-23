@@ -14,11 +14,7 @@ import { THEME } from '../theme';
 import { useGraphFocus } from '../hooks/useGraphFocus';
 import SearchBar from './SearchBar';
 import HamburgerMenu from './HamburgerMenu';
-<<<<<<< HEAD
 import InteractiveInspector from './InteractiveInspector';
-=======
-import ComplexityDashboard from './ComplexityDashboard';
->>>>>>> main
 
 const nodeTypes = {
     custom: CustomNode,
@@ -69,7 +65,6 @@ export default function GraphDebugger() {
                         isCircular: n.isCircular,
                         opacity: 1,
                         complexity: n.complexity,
-<<<<<<< HEAD
                         isXRayMode: false,
                         fanIn: n.fanIn,
                         fanOut: n.fanOut,
@@ -77,9 +72,6 @@ export default function GraphDebugger() {
                         hooks: n.hooks,
                         flags: n.flags,
                         fullPath: n.fullPath
-=======
-                        isXRayMode: false
->>>>>>> main
                     },
                 }));
 
@@ -149,11 +141,7 @@ export default function GraphDebugger() {
                 isDashboardOpen={isDashboardOpen}
                 toggleDashboard={() => setIsDashboardOpen(prev => !prev)}
             />
-<<<<<<< HEAD
             <InteractiveInspector
-=======
-            <ComplexityDashboard
->>>>>>> main
                 isOpen={isDashboardOpen}
                 selectedNode={nodes.find(n => n.id === focusedNodeId)}
             />

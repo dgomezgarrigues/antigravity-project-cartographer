@@ -37,7 +37,6 @@ function buildGraph(modulesData) {
         nodeId = finalNodeId;
 
         // Register primary node
-<<<<<<< HEAD
         nodes.push({
             id: nodeId,
             label: primaryDefinition,
@@ -48,9 +47,6 @@ function buildGraph(modulesData) {
             hooks: data.hooks || [],
             fullPath: data.fullPath || filePath
         });
-=======
-        nodes.push({ id: nodeId, label: primaryDefinition, type: type, level: 2, complexity: complexity });
->>>>>>> main
         nodeIds.add(nodeId);
         nodeLevels.set(nodeId, 2);
         fileToNodeId.set(filePath, nodeId);
@@ -174,7 +170,6 @@ function buildGraph(modulesData) {
 
     nodes.forEach(n => {
         if (n.level === Infinity) n.level = 4;
-<<<<<<< HEAD
 
         // Calculate Fan-in and Fan-out
         n.fanOut = edges.filter(e => e.source === n.id).length;
@@ -192,8 +187,6 @@ function buildGraph(modulesData) {
             isComplex,
             isSlow
         };
-=======
->>>>>>> main
     });
 
     return { nodes, edges };
